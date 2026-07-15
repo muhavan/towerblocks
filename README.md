@@ -1,4 +1,4 @@
-# Tower Blocks!
+# Tower Blocks
 
 Tower building game. Place blocks by clicking, tapping or spacebarring. 
 
